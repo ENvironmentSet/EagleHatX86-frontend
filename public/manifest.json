@@ -1,0 +1,8 @@
+{
+  "short_name": "USB of Freedom",
+  "name": "Flash USB for Free",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
